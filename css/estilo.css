@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+ 
+}
+.formulario{
+    background-color: cornflowerblue;
+    width: 28%;
+    margin-left: 35%;
+    margin-top: 2%;
+    padding: 20px;
+}
+
+.contenedor{
+
+width: 100%;
+
+}
+
+.titulo{
+    margin-top: 4%;
+    text-align: center;
+}
+.nombre{
+    margin-left: 26.5%;
+    margin-top: 5%;
+    display: block;
+}
+.correo{
+    margin-left: 26.5%;
+    margin-top: 5%;
+    display: block;
+}
+.contra{
+    margin-left: 26.5%;
+    margin-top: 5%;
+    display: block;
+}
+
+.btn{
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 0.6em 3.5em;
+    border-radius: 50px;
+    color: black;
+    margin-left: 29%;
+    margin-top: 3%;
+}
+  .btn:hover{
+    background-color: black;
+      color: #fff;
+  }
